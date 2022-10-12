@@ -63,6 +63,9 @@ read_excel_02()
 
 
 # memo
+#
+# - Pandas - read csv stored as string in memory to data frame
+#   https://stackoverflow.com/questions/58288236/pandas-read-csv-stored-as-string-in-memory-to-data-frame
 # - openpyxl による Excelファイル操作方法のまとめ
 #   https://gammasoft.jp/support/how-to-use-openpyxl-for-excel-file/#get-sheet
 
